@@ -10,3 +10,7 @@ kafka配置快速入门：http://kafka.apache.org/quickstart
 
 
 http://www.360doc.com/content/18/0904/20/41344223_783904860.shtml
+
+
+关于分组
+https://blog.csdn.net/camel84/article/details/82861053
