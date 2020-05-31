@@ -17,3 +17,7 @@ https://blog.csdn.net/camel84/article/details/82861053
 
 关于消费提交
 https://blog.csdn.net/xiaofei2017/article/details/80924800
+
+
+关于go的kafka客户
+https://studygolang.com/articles/11585
